@@ -23,7 +23,6 @@ a classic star topology where each node has a single dedicated link to the switc
 | PC3       | Fa0/1       |
 | Laptop0   | Fa0/5       |
 | Printer0  | Fa0/6       |
-<img width="1304" height="617" alt="Screenshot 2026-10-04 190714" src="https://github.com/user-attachments/assets/b46f41f3-7a40-4a57-9b85-e9f3945331e3" />
 
 
 ## IP Addressing Table
