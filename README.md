@@ -46,7 +46,7 @@ a classic star topology where each node has a single dedicated link to the switc
 | Fa0/6 | Up          | Printer0          |
 
 ## Connectivity Test
-Ping tests were performed from **PC3** to three other devices on the network. 
+Ping tests were performed from **PC3** to two other devices on the network. 
 All tests completed successfully with **0% packet loss**:
 
 <img width="1304" height="617" alt="connectivity-test png" src="https://github.com/user-attachments/assets/b1eebb10-c930-438c-ab6f-463409e90da2" />
